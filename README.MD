@@ -2,7 +2,7 @@
 
 <h2>1.解析式分析</h2>
 
-<center><img src="./img/fun.jpg"width=450px></img></center>
+<center><img src="https://github.com/baiyaoyu/GA/tree/master/img/fun.jpg"width=450px></img></center>
 
 <font size=4>
 
@@ -33,7 +33,7 @@
 
 *遗传算法解决问题的一般思路*
 
-<center><img src="./img/pro.jpg" width=600px></img></center>
+<center><img src="https://github.com/baiyaoyu/GA/tree/master/img/pro.jpg" width=600px></img></center>
 
 <h2>3.编程实现</h2>
 语言：python
@@ -70,7 +70,7 @@
 <h2>4.结果分析及总结</h2>
 
 
-<center><img src="./img/figure.png "width=500px></img></center>
+<center><img src="https://github.com/baiyaoyu/GA/tree/master/imgimg/figure.png "width=500px></img></center>
 
 其中绿点表示本次求的的最值。
 
