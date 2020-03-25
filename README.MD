@@ -69,7 +69,7 @@
 <h2>4.结果分析及总结</h2>
 
 
-![图像](https://raw.githubusercontent.com/baiyaoyu/GA/master/imgimg/Figure.png)
+![图像](https://raw.githubusercontent.com/baiyaoyu/GA/master/img/Figure.png)
 其中绿点表示本次求的的最值。
 
 *结果分析*
